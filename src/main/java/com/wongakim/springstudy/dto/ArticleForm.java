@@ -1,6 +1,6 @@
-package com.example.springstudy.dto;
+package com.wongakim.springstudy.dto;
 
-import com.example.springstudy.entity.Article;
+import com.wongakim.springstudy.entity.Article;
 import lombok.AllArgsConstructor;
 import lombok.ToString;
 

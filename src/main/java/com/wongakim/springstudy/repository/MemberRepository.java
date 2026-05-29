@@ -1,6 +1,6 @@
-package com.example.springstudy.repository;
+package com.wongakim.springstudy.repository;
 
-import com.example.springstudy.entity.Member;
+import com.wongakim.springstudy.entity.Member;
 import org.springframework.data.repository.CrudRepository;
 
 public interface MemberRepository extends CrudRepository<Member, Long> {

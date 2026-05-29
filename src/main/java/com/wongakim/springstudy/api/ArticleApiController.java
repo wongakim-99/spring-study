@@ -1,8 +1,8 @@
-package com.example.springstudy.api;
+package com.wongakim.springstudy.api;
 
-import com.example.springstudy.dto.ArticleForm;
-import com.example.springstudy.entity.Article;
-import com.example.springstudy.service.ArticleService;
+import com.wongakim.springstudy.dto.ArticleForm;
+import com.wongakim.springstudy.entity.Article;
+import com.wongakim.springstudy.service.ArticleService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

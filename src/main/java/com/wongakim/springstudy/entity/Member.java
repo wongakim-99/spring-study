@@ -1,4 +1,4 @@
-package com.example.springstudy.entity;
+package com.wongakim.springstudy.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

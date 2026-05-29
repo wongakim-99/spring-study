@@ -1,4 +1,4 @@
-package com.example.springstudy;
+package com.wongakim.springstudy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

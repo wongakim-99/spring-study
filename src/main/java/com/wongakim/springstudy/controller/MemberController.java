@@ -1,8 +1,8 @@
-package com.example.springstudy.controller;
+package com.wongakim.springstudy.controller;
 
-import com.example.springstudy.dto.MemberForm;
-import com.example.springstudy.entity.Member;
-import com.example.springstudy.repository.MemberRepository;
+import com.wongakim.springstudy.dto.MemberForm;
+import com.wongakim.springstudy.entity.Member;
+import com.wongakim.springstudy.repository.MemberRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

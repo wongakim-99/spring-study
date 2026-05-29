@@ -1,9 +1,9 @@
-package com.example.springstudy.controller;
+package com.wongakim.springstudy.controller;
 
 import org.springframework.ui.Model;
-import com.example.springstudy.dto.ArticleForm;
-import com.example.springstudy.entity.Article;
-import com.example.springstudy.repository.ArticleRepository;
+import com.wongakim.springstudy.dto.ArticleForm;
+import com.wongakim.springstudy.entity.Article;
+import com.wongakim.springstudy.repository.ArticleRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
